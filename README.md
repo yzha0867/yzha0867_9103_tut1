@@ -16,3 +16,4 @@ function helloWorld(){
 
 >This is a blockquote.
 
+** This is bold. **
