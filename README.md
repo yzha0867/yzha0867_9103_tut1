@@ -17,5 +17,5 @@ function helloWorld(){
 >This is a blockquote.
 
 **This is bold.** 
-*This is italia.*
+<br>*This is italia.*
 
