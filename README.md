@@ -35,7 +35,7 @@ To simulate a **thermal-imaging effect**, I plan to use the **`loadPixels()`** a
 This technique allows **image brightness** to correspond to **perceived temperature**, producing a soft gradient similar to thermal vision.  
 It can also be extended with **Perlin noise** or **time-based variables** to create *evolving colour flows* that visualise shifting energy and intensity.  
 This approach can be applied within **group visual generation** and later developed further in **individual animation tasks**.
-  
+
 **Demo Screenshot:**  
 ![p5 heatmap demo](https://p5js.org/assets/examples/learn/brightness-map.png)
 
@@ -43,12 +43,3 @@ This approach can be applied within **group visual generation** and later develo
 🔗 [p5.js Brightness and Colour Mapping Example](https://editor.p5js.org/codingtrain/sketches/4UYGWUJkN)
 
 ---
-
-### Relevance to Final Assignment  
-- Translates the concept of thermal imaging into programmable visual logic.  
-- Combines artistic expression (colour temperature, energy, rhythm) with technical implementation (brightness mapping, gradient blending).  
-- Scalable for animation using:  
-  - **Time-based colour transitions**  
-  - **Perlin noise for organic variation**  
-  - **Audio input for reactive temperature shifts**
-
