@@ -38,7 +38,7 @@ This approach can be applied within **group visual generation** and later develo
 
 **Demo Screenshot:**  
 
-| ![Before](readmeImages/before.jpg) | ![After (Thermal Render)](readmeImages/after_render.jpg) |
+| ![Before](readmeImages/before.png) | ![After (Thermal Render)](readmeImages/after_render.png) |
 |:----------------------------------:|:---------------------------------------------------------:|
 
 **Example Code Link:**  
