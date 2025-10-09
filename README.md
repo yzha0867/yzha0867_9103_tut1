@@ -40,6 +40,5 @@ This approach can be applied within **group visual generation** and later develo
 ![p5 heatmap demo](https://p5js.org/assets/examples/learn/brightness-map.png)
 
 **Example Code Link:**  
-🔗 [p5.js Brightness and Colour Mapping Example](https://editor.p5js.org/codingtrain/sketches/4UYGWUJkN)
-
+🔗 [p5.js ThermalView‑effect (GitHub by clod44)](https://github.com/clod44/ThermalView-effect-p5js)
 ---
