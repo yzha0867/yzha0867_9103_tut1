@@ -20,7 +20,7 @@ function helloWorld(){
 <br>*This is italia.*
 
 # Quiz 8 — Design & Coding Technique Research  
-**Student:** Jiaqi Pan  
+**Student:** Ying Zhang (550096346)
 **Topic:** Thermal Imaging Technique (Ivan Pokidyshev)
 
 ---
@@ -62,7 +62,3 @@ This approach can be applied within group visual generation and later developed 
   - **Perlin noise for organic variation**  
   - **Audio input for reactive temperature shifts**
 
----
-
-**Commit label:** “Quiz 8”  
-Ensure this file is pushed to your GitHub repository, and submit your repository link on the LMS quiz page.
