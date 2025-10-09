@@ -21,11 +21,11 @@ function helloWorld(){
 
 # Quiz 8 — Design & Coding Technique Research  
 **Student:** Ying Zhang (550096346)
-**Topic:** Thermal Imaging Technique (Ivan Pokidyshev)
+<br>**Topic:** Thermal Imaging Technique (Ivan Pokidyshev)
 
 ---
 
-## 🟠 Part 1: Imaging Technique Inspiration  
+## Part 1: Imaging Technique Inspiration  
 **Chosen Technique:** Thermal Imaging — Inspired by Russian artist *Ivan Pokidyshev* (2022, Instagram series)
 
 Ivan Pokidyshev’s thermal-imaging paintings transform human figures into glowing silhouettes within darkness, using gradients of red, orange, and yellow to represent emotion and energy.  
@@ -38,7 +38,7 @@ By visualising “energy flow” through colour transitions and luminance, this 
 
 ---
 
-## 🟣 Part 2: Coding Technique Exploration  
+## Part 2: Coding Technique Exploration  
 **Technique:** p5.js Pixel Brightness Mapping & Colour Gradient  
 
 To simulate a thermal-imaging effect, I plan to use the `loadPixels()` and `map()` functions in p5.js to map pixel brightness values into a heat-colour palette ranging from red to yellow.  
@@ -54,7 +54,7 @@ This approach can be applied within group visual generation and later developed 
 
 ---
 
-### ✅ Relevance to Final Assignment  
+### Relevance to Final Assignment  
 - Translates the concept of thermal imaging into programmable visual logic.  
 - Combines artistic expression (colour temperature, energy, rhythm) with technical implementation (brightness mapping, gradient blending).  
 - Scalable for animation using:  
