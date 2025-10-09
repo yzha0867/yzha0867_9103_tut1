@@ -1,6 +1,6 @@
 # Quiz 8 
 **Student:** Ying Zhang (550096346)
-<br>**Topic:** Thermal Imaging Technique (Ivan Pokidyshev)
+<br>**Topic:** Thermal Imaging Technique (Design Research)
 
 ---
 
