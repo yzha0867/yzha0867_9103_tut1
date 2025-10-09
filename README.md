@@ -41,4 +41,6 @@ This approach can be applied within **group visual generation** and later develo
 
 **Example Code Link:**  
 🔗 [p5.js ThermalView‑effect (GitHub by clod44)](https://github.com/clod44/ThermalView-effect-p5js)
+
+
 ---
