@@ -38,8 +38,8 @@ This approach can be applied within **group visual generation** and later develo
 
 **Demo Screenshot:**  
 
-| ![Before](readmeImages/before.png) | ![After (Thermal Render)](readmeImages/after_render.png) |
-|:----------------------------------:|:---------------------------------------------------------:|
+ ![After (Thermal Render)](readmeImages/after_render.png) |
+|:---------------------------------------------------------:|
 
 **Example Code Link:**  
 🔗 [p5.js ThermalView‑effect (GitHub by clod44)](https://github.com/clod44/ThermalView-effect-p5js)
