@@ -1,15 +1,4 @@
-```
-function helloWorld(){
-    console.log ("Hello, world!");
-}
-```
-
->This is a blockquote.
-
-**This is bold.** 
-<br>*This is italia.*
-
-# Quiz 8 — Design & Coding Technique Research  
+# Quiz 8 
 **Student:** Ying Zhang (550096346)
 <br>**Topic:** Thermal Imaging Technique (Ivan Pokidyshev)
 
