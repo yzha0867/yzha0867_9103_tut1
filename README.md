@@ -1,13 +1,3 @@
-# yzha0867_9103_tut1
-
-## My first repository for IDEA9103
-
-
-### This is my first local change to the repo!
-
-![An image of the Mona Lisa](readmeImages/Mona_Lisa_by_Leonardo_da_Vinci_500_x_700.jpg)
-
-
 ```
 function helloWorld(){
     console.log ("Hello, world!");
@@ -32,9 +22,14 @@ Ivan Pokidyshev’s thermal-imaging paintings transform human figures into glowi
 I am inspired by his approach of replacing physical form with visual heat and movement, and I aim to integrate this metaphor of warmth and perception into my own digital work.  
 By visualising “energy flow” through colour transitions and luminance, this technique offers a powerful method for expressing rhythm, emotion, and abstract presence through code-based visualisation.  
 
-**Example Images:**  
-![Thermal artwork detail](readmeImages/IMG_6475.jpg)  
+**Example Images:**
 ![Gallery installation view](readmeImages/IMG_6477.jpg)
+![Thermal artwork detail](readmeImages/IMG_6475.jpg)  
+
+<p float="left">
+  <img src="readmeImages/IMG_6475.jpg" width="350" />
+  <img src="readmeImages/IMG_6477.jpg" width="350" />
+</p>
 
 ---
 
