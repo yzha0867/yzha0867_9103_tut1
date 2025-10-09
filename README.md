@@ -26,7 +26,7 @@ By visualising “energy flow” through colour transitions and luminance, this 
 ![Gallery installation view](readmeImages/IMG_6477.jpg)
 ![Thermal artwork detail](readmeImages/IMG_6475.jpg)  
 
-<p float="left">
+<p align="center">
   <img src="readmeImages/IMG_6475.jpg" width="350" />
   <img src="readmeImages/IMG_6477.jpg" width="350" />
 </p>
