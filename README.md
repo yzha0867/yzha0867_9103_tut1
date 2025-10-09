@@ -37,7 +37,9 @@ It can also be extended with **Perlin noise** or **time-based variables** to cre
 This approach can be applied within **group visual generation** and later developed further in **individual animation tasks**.
 
 **Demo Screenshot:**  
-![p5 heatmap demo](https://p5js.org/assets/examples/learn/brightness-map.png)
+
+| ![Before](readmeImages/before.jpg) | ![After (Thermal Render)](readmeImages/after_render.jpg) |
+|:----------------------------------:|:---------------------------------------------------------:|
 
 **Example Code Link:**  
 🔗 [p5.js ThermalView‑effect (GitHub by clod44)](https://github.com/clod44/ThermalView-effect-p5js)
