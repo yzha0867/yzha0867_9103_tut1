@@ -23,15 +23,9 @@ I am inspired by his approach of replacing physical form with visual heat and mo
 By visualising “energy flow” through colour transitions and luminance, this technique offers a powerful method for expressing rhythm, emotion, and abstract presence through code-based visualisation.  
 
 **Example Images:**
-![Gallery installation view](readmeImages/IMG_6477.jpg)
-![Thermal artwork detail](readmeImages/IMG_6475.jpg)  
 
-<p align="center">
-    <img src="readmeImages/IMG_6477.jpg" width="350" />
-    <img src="readmeImages/IMG_6475.jpg" width="350" />
-  
-</p>
-
+| ![Gallery installation view](readmeImages/IMG_6477.jpg)| ![Thermal artwork detail](readmeImages/IMG_6475.jpg)  |
+|:------------------------------------:|:------------------------------------:|
 ---
 
 ## Part 2: Coding Technique Exploration  
