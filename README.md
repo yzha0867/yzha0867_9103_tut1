@@ -7,7 +7,7 @@
 ## Part 1: Imaging Technique Inspiration  
 **Chosen Technique:** Thermal Imaging — Inspired by Russian artist *Ivan Pokidyshev* (2022, Instagram series)
 
-Ivan Pokidyshev’s **thermal-imaging paintings** transform human figures into glowing silhouettes within darkness, using *gradients of red, orange, and yellow* to represent emotion and energy.  
+Ivan Pokidyshev's **thermal-imaging paintings** transform human figures into glowing silhouettes within darkness, using *gradients of red, orange, and yellow* to represent emotion and energy.  
 I am inspired by his approach of **replacing physical form with visual heat and movement**, and I aim to integrate this metaphor of *warmth and perception* into my own digital work.  
 By visualising **“energy flow”** through colour transitions and luminance, this technique offers a powerful method for expressing *rhythm, emotion, and abstract presence* through code-based visualisation.  
 
