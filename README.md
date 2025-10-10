@@ -31,7 +31,7 @@ By visualising **"energy flow"** through colour transitions and luminance, this 
 
 ### Concept Summary
 - This coding technique recreates **thermal-imaging visuals** by mapping **pixel brightness** to a **colour gradient** that represents varying heat intensities.  
-- Using p5.js functions such as **`loadPixels()`** and **`map()`**, it reads each pixel’s brightness and converts it into an index within a custom *heat-colour palette*.  
+- Using p5.js functions **`loadPixels()`** and **`map()`**, it reads each pixel's brightness and converts it into an index within a custom *heat-colour palette*.  
 - The resulting colours are blended smoothly with **`lerpColor()`** and redrawn using **`updatePixels()`**.  
 - It reproduces *thermal-imaging aesthetics* and is **parameterised** (*resolution*, *heat range*, *intensity*), so the same pipeline can later be **animated** while keeping the group code **clean and modular**.  
 - This process effectively translates *brightness* into **perceived temperature and motion**, generating **glowing gradients** that express *energy, rhythm, and emotion*.  
