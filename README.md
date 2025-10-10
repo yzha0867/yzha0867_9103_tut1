@@ -20,8 +20,7 @@ By visualising **"energy flow"** through colour transitions and luminance, this 
 - *Emotion* — translating warmth and light into expressive gradients.  
 - *Abstract presence* — reducing physical form into heat-based motion patterns.  
   
-
-**Example Images:**
+### **Example Images:**
 
 | ![Gallery installation view](readmeImages/IMG_6477.jpg)| ![Thermal artwork detail](readmeImages/IMG_6475.jpg)  |
 |:------------------------------------:|:------------------------------------:|
@@ -38,12 +37,12 @@ It reproduces *thermal-imaging aesthetics* and is **parameterised** (*resolution
 This process effectively translates *brightness* into **perceived temperature and motion**, generating **glowing gradients** that express *energy, rhythm, and emotion*.  
 
 
-**Demo Screenshot:**  
+### **Demo Screenshot:**  
 
  ![After (Thermal Render)](readmeImages/after_render.png) |
 |:---------------------------------------------------------:|
 
-**Example Code Link:**  
+### **Example Code Link:**  
 🔗 [p5.js ThermalView‑effect (GitHub by clod44)](https://github.com/clod44/ThermalView-effect-p5js)
 
 
