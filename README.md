@@ -27,7 +27,7 @@ By visualising **"energy flow"** through colour transitions and luminance, this 
 ---
 
 ## Part 2: Coding Technique Exploration  
-**Technique:** *p5.js Pixel-Based Thermal Colour Mapping*
+**Technique:** p5.js *Pixel-Based Thermal Colour Mapping*
 
 ### Concept Summary
 This coding technique recreates **thermal-imaging visuals** by mapping **pixel brightness** to a **colour gradient** that represents varying heat intensities.  
