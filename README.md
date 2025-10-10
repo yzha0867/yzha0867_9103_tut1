@@ -7,9 +7,19 @@
 ## Part 1: Imaging Technique Inspiration  
 **Chosen Technique:** Thermal Imaging — Inspired by Russian artist *Ivan Pokidyshev* (2022, Instagram series)
 
-Ivan Pokidyshev's **thermal-imaging paintings** transform human figures into glowing silhouettes within darkness, using *gradients of red, orange, and yellow* to represent emotion and energy.  
-I am inspired by his approach of **replacing physical form with visual heat and movement**, and I aim to integrate this metaphor of *warmth and perception* into my own digital work.  
-By visualising **"energy flow"** through colour transitions and luminance, this technique offers a powerful method for expressing *rhythm, emotion, and abstract presence* through code-based visualisation.  
+### Overview
+Ivan Pokidyshev's **thermal-imaging paintings** transform human figures into glowing silhouettes within darkness, using *gradients of red, orange, and yellow* to visualise emotion and energy.
+
+### Inspiration & Application
+I am inspired by his approach of **replacing physical form with visual heat and movement**, and I aim to integrate this metaphor of *warmth and perception* into our own digital work.
+
+
+By visualising **"energy flow"** through colour transitions and luminance, this technique offers a powerful method for expressing:
+
+- *Rhythm* — capturing movement through colour variation.  
+- *Emotion* — translating warmth and light into expressive gradients.  
+- *Abstract presence* — reducing physical form into heat-based motion patterns.  
+  
 
 **Example Images:**
 
@@ -18,8 +28,9 @@ By visualising **"energy flow"** through colour transitions and luminance, this 
 ---
 
 ## Part 2: Coding Technique Exploration  
-**Technique:** *p5.js Pixel-Based Thermal Colour Mapping*  
+**Technique:** *p5.js Pixel-Based Thermal Colour Mapping*
 
+### Concept Summary
 This coding technique recreates **thermal-imaging visuals** by mapping **pixel brightness** to a **colour gradient** that represents varying heat intensities.  
 Using p5.js functions such as **`loadPixels()`** and **`map()`**, it reads each pixel’s brightness and converts it into an index within a custom *heat-colour palette*.  
 The resulting colours are blended smoothly with **`lerpColor()`** and redrawn using **`updatePixels()`**.  
